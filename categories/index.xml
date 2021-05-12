@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Initio - Free, multipurpose html5 template by GetTemplate</title>
-    <link>https://feliciasteger.github.io/website/categories/</link>
-    <description>Recent content in Categories on Initio - Free, multipurpose html5 template by GetTemplate</description>
+    <title>Categories on Felicia Steger</title>
+    <link>https://feliciasteger.com/categories/</link>
+    <description>Recent content in Categories on Felicia Steger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://feliciasteger.github.io/website/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://feliciasteger.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
